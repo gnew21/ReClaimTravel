@@ -1,0 +1,6 @@
+{
+  "name": "ReClaim",
+  "description": "AI-Powered Cancelled Bookings Marketplace. Resell non-refundable bookings with ease.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["AI-powered booking parsing", "Automated marketplace", "Secure transfers"]
+}
